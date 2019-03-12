@@ -1,0 +1,6 @@
+le as entradas e cria o vetor de amostras
+
+proximo passo: instanciar o algoritmo
+
+depois: programar os passos E e M pra gaussiana
+
